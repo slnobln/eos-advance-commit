@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int marbles = 20;
+  int marbles = 31;
   int branches = 8;
 
   if(marbles > 30){
