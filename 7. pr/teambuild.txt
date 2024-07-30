@@ -1,2 +1,3 @@
 | 팀 | 이름 | 역할 | github 이메일 |
 
+부산사나이 | 신영빈 | 디자인 | sinyoungbin0128@gmail.com
