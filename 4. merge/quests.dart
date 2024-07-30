@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   int marbles = 4;
-  int branches = 51;
+  int branches = 61;
 
   if(marbles > 30){
     print('축하합니다! 구슬조각을 모두 모았습니다.');
